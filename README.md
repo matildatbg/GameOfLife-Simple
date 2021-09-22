@@ -10,3 +10,4 @@ alive, and 5 threads running: ./GameOfLife 1000 500 3 5.
 
 
 Optimized for CPU Intel Core i5-8250U CPU @ 1.60GHz, using compiler version gcc (Ubuntu 9.3.0-17ubuntu1 20.04) 9.3.0
+ 
