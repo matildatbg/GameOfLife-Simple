@@ -74,8 +74,8 @@ int main(int argc, char* argv[]){
     initialPattern(cells,probability);
     
     int i = 0;
-    /*  The commented lines in this section should be 
-        uncommented for a visual representation.*/
+    /*  The commented lines regarding visual representation 
+        to increase the speed of the simulation. */
     while (i < steps){
         system("clear");
         printf("\n--------------NEW GRID----------------\n");
