@@ -77,11 +77,11 @@ int main(int argc, char* argv[]){
     /*  The commented lines in this section should be 
         uncommented for a visual representation.*/
     while (i < steps){
-        //system("clear");
-        //printf("\n--------------NEW GRID----------------\n");
-        //printGrid(cells);
+        system("clear");
+        printf("\n--------------NEW GRID----------------\n");
+        printGrid(cells);
         updatePattern(cells);
-        //usleep(600000);
+        usleep(600000);
         i = i+1;
     }
 
